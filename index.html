@@ -1,32 +1,39 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
+  <base href="/PubPage/" />
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>NanoWeb</title>
-    <base href="/PubPage/" />
-    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/app.css" />
-    <link rel="icon" type="image/png" href="favicon.png" />
-    <link href="NanoWeb.styles.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <script type="text/javascript" src="package_bceee87f81db94782e572731d749f719d3a46164/require.js"></script>
+    <script type="module" src="package_bceee87f81db94782e572731d749f719d3a46164/uno-bootstrap.js"></script>
+    <link rel="stylesheet" type="text/css" href="package_bceee87f81db94782e572731d749f719d3a46164/normalize.css" />
+<link rel="stylesheet" type="text/css" href="package_bceee87f81db94782e572731d749f719d3a46164/uno-bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="package_bceee87f81db94782e572731d749f719d3a46164/uno.css" />
+<link rel="stylesheet" type="text/css" href="package_bceee87f81db94782e572731d749f719d3a46164/Fonts.css" />
+    <link rel="manifest" href="manifest.webmanifest" />
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#ffffff" />
+
 </head>
-
 <body>
-    <div id="app">
-        <svg class="loading-progress">
-            <circle r="40%" cx="50%" cy="50%" />
-            <circle r="40%" cx="50%" cy="50%" />
-        </svg>
-        <div class="loading-progress-text"></div>
-    </div>
+    <div id="uno-body" class="container-fluid uno-body">
+        <div class="uno-loader"
+             loading-position="bottom"
+             loading-alert="none">
 
-    <div id="blazor-error-ui">
-        An unhandled error has occurred.
-        <a href="." class="reload">Reload</a>
-        <span class="dismiss">🗙</span>
+            <!-- Logo: change src to customize the logo -->
+            <img class="logo"
+                 src=""
+                 title="Uno is loading your application" />
+
+            <progress></progress>
+            <span class="alert"></span>
+        </div>
     </div>
-    <script src="./_framework/blazor.webassembly.js"></script>
+    <noscript>
+        <p>This application requires Javascript and WebAssembly to be enabled.</p>
+    </noscript>
 </body>
-
 </html>
