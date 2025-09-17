@@ -1,11 +1,11 @@
 {
   "mainAssemblyName": "ZEUS.Browser",
   "resources": {
-    "hash": "sha256-8+lMYwf8v/6JgrLqu6OK8qBWS5df0mShjl7S2YEJ0Zg=",
+    "hash": "sha256-oF/5eEad8mmgXXBcrNXTbIuAGSeXVyTHYWk4K63r3vs=",
     "fingerprinting": {
-      "Avalonia.Base.726a5lt85u.wasm": "Avalonia.Base.wasm",
+      "Avalonia.Base.st4calqoi4.wasm": "Avalonia.Base.wasm",
       "Avalonia.Browser.4y1gqk1qdh.wasm": "Avalonia.Browser.wasm",
-      "Avalonia.Controls.6mks864043.wasm": "Avalonia.Controls.wasm",
+      "Avalonia.Controls.2ea2nimzgb.wasm": "Avalonia.Controls.wasm",
       "Avalonia.Dialogs.ktb3up4vnn.wasm": "Avalonia.Dialogs.wasm",
       "Avalonia.Fonts.Inter.y5rnj1v4ag.wasm": "Avalonia.Fonts.Inter.wasm",
       "Avalonia.Markup.ukd1kxu38i.wasm": "Avalonia.Markup.wasm",
@@ -30,14 +30,14 @@
       "System.Linq.Expressions.p34tby5b2d.wasm": "System.Linq.Expressions.wasm",
       "System.Linq.fuwe8ufufw.wasm": "System.Linq.wasm",
       "System.ObjectModel.aqzvz6cuu1.wasm": "System.ObjectModel.wasm",
-      "System.Private.CoreLib.rnrfqw6242.wasm": "System.Private.CoreLib.wasm",
+      "System.Private.CoreLib.tq1tfo7z5d.wasm": "System.Private.CoreLib.wasm",
       "System.Private.Uri.blc9gd71jy.wasm": "System.Private.Uri.wasm",
       "System.Runtime.InteropServices.JavaScript.acm9i9lqaj.wasm": "System.Runtime.InteropServices.JavaScript.wasm",
       "System.ezrw3d5kw2.wasm": "System.wasm",
-      "ZEUS.Browser.hdcpj0wz4m.wasm": "ZEUS.Browser.wasm",
-      "ZEUS.35j1qz939q.wasm": "ZEUS.wasm",
+      "ZEUS.Browser.fzskisx0br.wasm": "ZEUS.Browser.wasm",
+      "ZEUS.p0rxfwoce6.wasm": "ZEUS.wasm",
       "dotnet.native.12mj9fl7q5.js": "dotnet.native.js",
-      "dotnet.native.jb1cja1pam.wasm": "dotnet.native.wasm",
+      "dotnet.native.n6b6ae8jmy.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.runtime.5nhp1wfg9b.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
@@ -51,7 +51,7 @@
       "dotnet.runtime.5nhp1wfg9b.js": "sha256-kTZbe5ESp04VMT22TnjRmFj88VbtEcohZfCm4og/IDw="
     },
     "wasmNative": {
-      "dotnet.native.jb1cja1pam.wasm": "sha256-UcPgh7/3VLb47Enq+PJUpCjyMfsMYqwd1MYw2LvWQ1o="
+      "dotnet.native.n6b6ae8jmy.wasm": "sha256-4f8gwJNHbf3dt4yZ7xogKpASDveVC1lty7nfkfQZxlg="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -59,13 +59,13 @@
       "icudt_no_CJK.lfu7j35m59.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "coreAssembly": {
-      "System.Private.CoreLib.rnrfqw6242.wasm": "sha256-OQyTKlRi19uNZey1ZSKG+4MIznT54MWXn8J9FeG7ees=",
+      "System.Private.CoreLib.tq1tfo7z5d.wasm": "sha256-Fa3ZraTMj90wnnwF4WXt3EiEq7Laq5kY59xDz+ojCsE=",
       "System.Runtime.InteropServices.JavaScript.acm9i9lqaj.wasm": "sha256-pkBHrjlmWzyU5DMpEXQDBlEyULMwnBC+VUiwlP18ukE="
     },
     "assembly": {
-      "Avalonia.Base.726a5lt85u.wasm": "sha256-0Vm1u0AAE7Czutan3fedlCVpp6EoBIfsDOClSNbzVi4=",
+      "Avalonia.Base.st4calqoi4.wasm": "sha256-cAH4p/IFgq0t0J4YuWRrEPJ1s+4cz8l9jX/ajxMMEHA=",
       "Avalonia.Browser.4y1gqk1qdh.wasm": "sha256-JNiy6tpFqmS3HxnvTvxMpC5L3W01gmE+agJRb5UJF4A=",
-      "Avalonia.Controls.6mks864043.wasm": "sha256-XncNfx8DTQcnfJfrZ61J0BG6onSpYyQXkK0U7/0ahFQ=",
+      "Avalonia.Controls.2ea2nimzgb.wasm": "sha256-GsCoQovtL11UXfHRkjpd+rdj7derCRx9b5d140rfvb8=",
       "Avalonia.Dialogs.ktb3up4vnn.wasm": "sha256-aL8ZT2oPG4ey95k8/VShuc9MBLZLNQtowS6k4QXtplo=",
       "Avalonia.Fonts.Inter.y5rnj1v4ag.wasm": "sha256-RnC43SStiHZ8DT4Ql8HovXyabdNLQfh3VU8G9ta0MG8=",
       "Avalonia.Markup.ukd1kxu38i.wasm": "sha256-Aq1wt4I2502SYbO7oOXpShWd/YiPdH96Q0AtHzgbfJE=",
@@ -92,8 +92,8 @@
       "System.ObjectModel.aqzvz6cuu1.wasm": "sha256-ouFJQlaVTJgO25Uqgp5DruNYbSiXVMkG5EWTsssijwE=",
       "System.Private.Uri.blc9gd71jy.wasm": "sha256-/7u9pgyiEQA6FKIX6mk0QrcU/aXn7Gft4EsjiWs8C3s=",
       "System.ezrw3d5kw2.wasm": "sha256-ViNRvhyxlTugIlqJHamw/HwbXlg/YWcrANmxuTM0tfg=",
-      "ZEUS.Browser.hdcpj0wz4m.wasm": "sha256-5b0JXkDUI+RqVv8blpySQkZjgqWGIOEyJxBeT0Aiwps=",
-      "ZEUS.35j1qz939q.wasm": "sha256-Jy1z07e4hnMzKY1jC3VGY9cfR4dYvzpkmkNl3FnV+yM="
+      "ZEUS.Browser.fzskisx0br.wasm": "sha256-uyE+1fBXRs489PY8QaMJYreVnn33u/YC0C32Rd/Jh04=",
+      "ZEUS.p0rxfwoce6.wasm": "sha256-CXYncCNYg7MQkrFW1H2TFymnBDx1FiABv6f3g9652+U="
     }
   },
   "cacheBootResources": true,
