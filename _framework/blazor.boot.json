@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ZEUS.Browser",
   "resources": {
-    "hash": "sha256-k6Ztd0JqZfkghFKgkBl2lHTXApAolY+dYDNQ6CfobWw=",
+    "hash": "sha256-kMHRp1vKzegV8oHj3Vd65dur5F753FCCX+WgTPF9DiE=",
     "fingerprinting": {
       "Avalonia.Base.st4calqoi4.wasm": "Avalonia.Base.wasm",
       "Avalonia.Browser.4y1gqk1qdh.wasm": "Avalonia.Browser.wasm",
@@ -34,8 +34,8 @@
       "System.Private.Uri.blc9gd71jy.wasm": "System.Private.Uri.wasm",
       "System.Runtime.InteropServices.JavaScript.acm9i9lqaj.wasm": "System.Runtime.InteropServices.JavaScript.wasm",
       "System.ezrw3d5kw2.wasm": "System.wasm",
-      "ZEUS.Browser.nmdvlfo8ek.wasm": "ZEUS.Browser.wasm",
-      "ZEUS.gbeuufilon.wasm": "ZEUS.wasm",
+      "ZEUS.Browser.blservhnc0.wasm": "ZEUS.Browser.wasm",
+      "ZEUS.z3os2ryhss.wasm": "ZEUS.wasm",
       "dotnet.native.12mj9fl7q5.js": "dotnet.native.js",
       "dotnet.native.n6b6ae8jmy.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -92,8 +92,8 @@
       "System.ObjectModel.aqzvz6cuu1.wasm": "sha256-ouFJQlaVTJgO25Uqgp5DruNYbSiXVMkG5EWTsssijwE=",
       "System.Private.Uri.blc9gd71jy.wasm": "sha256-/7u9pgyiEQA6FKIX6mk0QrcU/aXn7Gft4EsjiWs8C3s=",
       "System.ezrw3d5kw2.wasm": "sha256-ViNRvhyxlTugIlqJHamw/HwbXlg/YWcrANmxuTM0tfg=",
-      "ZEUS.Browser.nmdvlfo8ek.wasm": "sha256-QVj2JjphLjXimlvgt/ovbHVuUC2hcLw4vs5rT8BJFf4=",
-      "ZEUS.gbeuufilon.wasm": "sha256-BIKbYADyxHrMMVP3dALhNZ2Ea/HMPI8DTQf4hQwuWKc="
+      "ZEUS.Browser.blservhnc0.wasm": "sha256-wdCDc2O7HyrH+lIeFiXtCQiVGkZM2hE2+BoA+cyf234=",
+      "ZEUS.z3os2ryhss.wasm": "sha256-8aiqxDF59SHh5ubBsVcOSn4xLAOyT+7LAVFvkxtZJlM="
     }
   },
   "cacheBootResources": true,
